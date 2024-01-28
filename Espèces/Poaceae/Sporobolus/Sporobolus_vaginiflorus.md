@@ -32,6 +32,6 @@ L'espèce est trouvée dans les milieux ouverts, perturbés ou dénudés comme l
 
 ## Commentaires
 
-Les tiges et les inflorescences apparaissent vers la fin de l'été et au début de l'automne. L'espèce semble assez commune dans le sud du Québec, mais elle peut facilement passer inaperçue. Une fois qu'on reconnaît l'espèce, elle est facilement repérable par ses tiges fines et dressées et rougissant en début d'automne.
+Les tiges et les inflorescences apparaissent vers la fin de l'été et au début de l'automne. Les épillets sont souvent partiellement enveloppés dans les gaines. L'espèce semble assez commune dans le sud du Québec, mais elle peut facilement passer inaperçue. Une fois qu'on reconnaît l'espèce, elle est facilement repérable par ses tiges fines et dressées et rougissant en début d'automne. 
 
 
