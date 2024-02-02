@@ -6,13 +6,13 @@ Ce dépôt contient les comptes-rendus pour toutes les espèces présentées sur
 
 ### Section photos
 
-Les photos sont un élément très important des comptes-rendus. Si les photos sélectionnées sont boien choisies (et si de bonnes photos sont disponibles), il est souvent possible de rapidement se faire une bonne idée de l'apparence et des éléments servant à identifier une espèce. Voici quelques critères à garder en tête lors de la sélection des photos:
+Les photos sont un élément très important des comptes-rendus. Si les photos sélectionnées sont bien choisies (et si de bonnes photos sont disponibles), il est souvent possible de rapidement se faire une bonne idée de l'apparence et des éléments servant à identifier une espèce. Voici quelques critères à garder en tête lors de la sélection des photos:
 
-- La première photo sert à représenter l'espèce sur le site. Cette photo doit être le plus représentatif possible de ce qu'un observateur peut voir lorsqu'il rencontre l'espèce pour une première fois
-- Les photos suivantes devraient permettre de se faire une bonne idée de l'apparence d'une espèce à différents niveaux (aspect général, inflorescence, photos macros des fleurs, des fruits, photo de plus loin illustrant un parterre de l'espèce, etc.)
+- La première photo sert à représenter l'espèce sur le site. Cette photo doit être la plus représentative possible de ce qu'un observateur peut voir lorsqu'il rencontre l'espèce pour une première fois sur le terrain
+- Les photos suivantes devraient permettre de se faire une bonne idée de l'apparence d'une espèce à différents niveaux (aspect général, inflorescence, photos macros des fleurs, des fruits, photo de plus loin illustrant un parterre de l'espèce, bourgeon, écorce, etc.)
 - Idéalement, les photos devraient illustrer les critères permettant l'identification
 
-Toutes les photos proviennent de la plateforme iNaturalist et sont disponibles publiquement. Pour cette raison, il est impératif de sélectionner des photos ayant une license permettant leur utilisation. **Les photos pouvant être utilisées ont obligatoiremnt une licence CC0, CC-BY ou CC-BY NC**. Ces licences permettent une utilisation libre et non-commerciale dans le mesure où l'auteur de la photo est crédité. Les photos n'ayant pas une de ces licences seront rejetées.
+Toutes les photos proviennent de la plateforme iNaturalist et sont disponibles publiquement. Pour cette raison, il est impératif de sélectionner des photos ayant une license permettant leur utilisation. **Les photos pouvant être utilisées ont obligatoiremnt une licence CC0, CC-BY ou CC-BY NC**. Ces licences permettent une utilisation libre et non-commerciale dans la mesure où l'auteur de la photo est crédité. Les photos n'ayant pas une de ces licences seront rejetées.
 
 #### Comment lister les photos?
 
@@ -42,7 +42,7 @@ Ici, on trouve une liste à points des traits distinctifs de l'espèce ou des é
 
 #### Espèces semblables
 
-Ici, on énumère les critères à regarder pour différencier cette espèces des autres espèces semblables. L'idéal est de cibler les espèces qui sont les plus semblables et de ne pas se perdre dans la description des autres espèces qui sont clairement différentes si on regarde attentivement les photos.
+Ici, on énumère les critères à regarder pour différencier cette espèce des autres espèces semblables. L'idéal est de cibler les espèces qui sont les plus semblables et de ne pas se perdre dans la description des autres espèces qui sont clairement différentes si on regarde attentivement les photos.
 
 #### Habitat
 
@@ -60,7 +60,7 @@ Pour contribuer, il faudra d'abord vous créer un compte [GitHub](https://github
 
 ### À partir de la plateforme en ligne
 
-La façon la plus simple pour éditer le contenu pour une espèce est d'utiliser le bouton *Edit this file* (le petit icône de crayon) sur la page de l'espèce pour proposer directement sur GitHub des changements au texte ou aux figures. Par la suite, il faudra cliquer sur le bouton vert *Commit changes* (en haut à droite) pour proposer les changements. Dans la plupart des cas, une branche (*fork*) sera créée sur votre compte GitHub à partir de laquelle vous pourrez faire un *Create pull request* pour proposer d'intégrer les changements aux site. Ce processus peut paraître très complexe la première fois, mais après quelques fois, cela devrait vous paraître beaucoup plus facile. À noter que les changements que vous proposerez devront être approuvés par un membre de l'équipe de révisions. Ceci permettra notamment de s'assurer de l'unformités du contenu et de repérer d'éventuelles erreurs de syntaxe *markdown* ou d'orthographe. 
+La façon la plus simple pour éditer le contenu pour une espèce est d'utiliser le bouton *Edit this file* (le petit icône de crayon) sur la page de l'espèce pour proposer directement sur GitHub des changements au texte ou aux figures. Par la suite, il faudra cliquer sur le bouton vert *Commit changes* (en haut à droite) pour proposer les changements. Dans la plupart des cas, une branche (*fork*) sera créée sur votre compte GitHub à partir de laquelle vous pourrez faire un *Create pull request* pour proposer d'intégrer les changements aux site. Ce processus peut paraître très complexe la première fois, mais après quelques fois, cela devrait vous paraître beaucoup plus facile. À noter que les changements que vous proposerez devront être approuvés par un membre de l'équipe de révision. Ceci permettra notamment de s'assurer de l'unformité du contenu et de repérer d'éventuelles erreurs de syntaxe *markdown* ou d'orthographe. 
 
 Si vous êtes un contributeur régulier, vous pourriez également avoir les droits pour proposer ou intégrer directement vos modifications sur le site sans passer par le processus de *fork* (création d'une branche sur votre compte) ou de *pull request*.  
 
