@@ -12,7 +12,7 @@ Les photos sont un élément très important des comptes-rendus. Si les photos s
 - Les photos suivantes devraient permettre de se faire une bonne idée de l'apparence d'une espèce à différents niveaux (aspect général, inflorescence, photos macros des fleurs, des fruits, photo de plus loin illustrant un parterre de l'espèce, bourgeon, écorce, etc.)
 - Idéalement, les photos devraient illustrer les critères permettant l'identification
 
-Toutes les photos proviennent de la plateforme iNaturalist et sont disponibles publiquement. Pour cette raison, il est impératif de sélectionner des photos ayant une license permettant leur utilisation. **Les photos pouvant être utilisées ont obligatoiremnt une licence CC0, CC-BY ou CC-BY NC**. Ces licences permettent une utilisation libre et non-commerciale dans la mesure où l'auteur de la photo est crédité. Les photos n'ayant pas une de ces licences seront rejetées.
+Toutes les photos proviennent de la plateforme iNaturalist et sont disponibles publiquement. Pour cette raison, il est impératif de sélectionner des photos ayant une license permettant leur utilisation. **Les photos pouvant être utilisées ont obligatoirement une licence CC0, CC-BY ou CC-BY NC**. Ces licences permettent une utilisation libre et non-commerciale dans la mesure où l'auteur de la photo est crédité. Les photos n'ayant pas une de ces licences seront rejetées.
 
 #### Comment lister les photos?
 
