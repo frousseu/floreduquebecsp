@@ -6,7 +6,7 @@ Ce dépôt contient les comptes-rendus pour toutes les espèces présentées sur
 
 ### Section photos
 
-Les photos sont un élément très important des comptes-rendus. Si les photos sélectionnées sont bien choisies (et si de bonnes photos sont disponibles), il est souvent possible de rapidement se faire une bonne idée de l'apparence et des éléments servant à identifier une espèce. Voici quelques critères à garder en tête lors de la sélection des photos:
+Les photos sont un élément très important des comptes-rendus. Si les photos sélectionnées sont bien choisies (et si de bonnes photos sont disponibles), il est souvent possible de se faire une idée de l'apparence et des éléments servant à identifier une espèce. Voici quelques critères à garder en tête lors de la sélection des photos:
 
 - La première photo sert à représenter l'espèce sur le site. Cette photo doit être la plus représentative possible de ce qu'un observateur peut voir lorsqu'il rencontre l'espèce pour une première fois sur le terrain
 - Les photos suivantes devraient permettre de se faire une bonne idée de l'apparence d'une espèce à différents niveaux (aspect général, inflorescence, photos macros des fleurs, des fruits, photo de plus loin illustrant un parterre de l'espèce, bourgeon, écorce, etc.)
